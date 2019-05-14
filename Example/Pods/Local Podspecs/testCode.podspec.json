@@ -1,0 +1,22 @@
+{
+  "name": "testCode",
+  "version": "0.1.0",
+  "summary": "A short description of testCode.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xurigan/testCode",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xurigan": "xurigan@apusapps.com"
+  },
+  "source": {
+    "git": "https://github.com/xurigan/testCode.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testCode/Classes/**/*"
+}
