@@ -437,7 +437,7 @@
 			};
 			name = Release;
 		};
-		36CED66D3701653BE7E3A78921D4C554 /* Release */ = {
+		4BD8D79ABE1E072187E0B93D9772B60C /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 08A830893998B2CFF71894FEFB01F9FE /* testCode.xcconfig */;
 			buildSettings = {
@@ -461,7 +461,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -469,7 +469,7 @@
 			};
 			name = Release;
 		};
-		7261E8F36DBC44007FFFE1E87FD00378 /* Debug */ = {
+		AF8957FB7639460689CD6B2DC56E0AD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 08A830893998B2CFF71894FEFB01F9FE /* testCode.xcconfig */;
 			buildSettings = {
@@ -493,7 +493,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -757,8 +757,8 @@
 		4CC8EA9AD744F23A923646BFE27CCC56 /* Build configuration list for PBXNativeTarget "testCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7261E8F36DBC44007FFFE1E87FD00378 /* Debug */,
-				36CED66D3701653BE7E3A78921D4C554 /* Release */,
+				AF8957FB7639460689CD6B2DC56E0AD1 /* Debug */,
+				4BD8D79ABE1E072187E0B93D9772B60C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
